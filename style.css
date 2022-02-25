@@ -1,5 +1,15 @@
 /* add code here to make your image 400px square */
-
+#vacation-spot{
+    width: 400px;
+    height: 400px;
+}
 /* add code here to change the color and font family of your vacation spot's name/title */
+h1{
+    color:aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 /* Bonus: change the color of your list elements */
+ol{
+    color: green;
+}
